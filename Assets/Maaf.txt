@@ -1,0 +1,9 @@
+Dear pengguna SIKOLA, untuk saat ini menu KELAS SAYA belum bisa diakses karena admin
+tidak sempat untuk mengerjakannya :' soalnya admin harus menyelesaikan kelas lain di 
+DICODING.COM, dan waktu pengerjaan submissionnya tinggal 2 minggu. maaf ya... lain kali
+kalau ada waktu admin akan lanjut proyek ini :)
+
+oiya, untuk tim DICODING yang meriview tugas saya, saya cuma mau bilang kalau tidak ada
+satupun yang ada di html dan css yang saya ambil dari template di internet atau plagiat 
+karya orang lain, semua layout yang ada saya kerja sendiri... mulai dari gambar desain kasar
+dikertas... sampai di eksekusi di html css. :)
